@@ -1,4 +1,4 @@
-# Localization-in-Wireless-Sensor-Networks-Using-Link-Quality-Values-A-Real-Test-bed-Implementation
+# Find SENSEnuts motes using trilteration
 
 Run the codes to implement a testbed of localisation.
 The idea is first two sensors are used to measure the relation between distance and link quality.
