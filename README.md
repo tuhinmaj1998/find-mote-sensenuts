@@ -1,4 +1,4 @@
-# Find SENSEnuts motes using trilteration
+# Find SENSEnuts motes using Trilateration
 
 Run the codes to implement a testbed of localisation.
 The idea is first two sensors are used to measure the relation between distance and link quality.
